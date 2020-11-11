@@ -9,7 +9,7 @@ describe("AppTest", () => {
 
       // Call Open on eyes to initialize a test session
       cy.eyesOpen({
-          appName: 'DemoApp',
+          appName: 'DemoApps',
           testName: 'Ultrafast grid demo',
       })
 
